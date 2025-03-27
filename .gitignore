@@ -1,8 +1,13 @@
-__pycache__/
-.ipynb_checkpoints
-.env
-*.pyc
-.Rhistory
-.RData
+# Checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Fichiers systèmes
 .DS_Store
+Thumbs.db
+
+# Données sensibles
+data/*.csv
+
+# Environnements virtuels ou fichiers de config
 venv/
+.env/
