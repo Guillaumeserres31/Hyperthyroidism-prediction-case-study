@@ -38,7 +38,7 @@ Meilleur F1-score, assurant un équilibre optimal entre précision et rappel pou
 
 📌 **Recommandation professionnelle**
 
-En conclusion, j’ai recommandé à l'Hôpital Pitié Salpêtrière d'utiliser le modèle de Gradient Boosting pour sa capacité supérieure à identifier les cas positifs d’hyperthyroïdie, ce qui pourrait significativement améliorer le dépistage précoce et réduire les coûts liés à cette pathologie.
+En conclusion, je recommanderais à l'Hôpital Pitié Salpêtrière d'utiliser le modèle de Gradient Boosting pour sa capacité supérieure à identifier les cas positifs d’hyperthyroïdie, ce qui pourrait significativement améliorer le dépistage précoce et réduire les coûts liés à cette pathologie.
 
 🛠️ **Technologies utilisées**
 
